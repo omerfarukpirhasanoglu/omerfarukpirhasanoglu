@@ -1,5 +1,5 @@
 ## Hi I'm Ömer.
-I develop AI solutions to the problems I identify.
+I combine the data-understanding power of deep learning with the contextual interpretation capabilities of LLMs.
 
 My Website: [pirhasanoglu.com](https://pirhasanoglu.com)
 
